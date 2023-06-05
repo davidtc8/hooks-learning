@@ -1,4 +1,4 @@
-# Intro to React
+# Hooks in React
 
 ## What is this repo about?
 This repo is for all those who are just getting started with react, I find this repo valuable 
@@ -22,10 +22,18 @@ because we review the following hooks:
 
 ## Folder Structure
     .   ├── hook-app
-            ├── build                   # Compiled files (alternatively `dist`)
-            ├── docs                    # Documentation files (alternatively `doc`)
-            ├── src                     # Source files (alternatively `lib` or `app`)
-            ├── test                    # Automated tests (alternatively `spec` or `tests`)
-            ├── tools                   # Tools and utilities
-            ├── LICENSE
-            └── README.md
+            ├── node_modules                   # NodeJS Modules
+            ├── public                         # Vite Public Files
+            ├── src                            # src Folder
+                ├── 01-useState                # useState hook
+                ├── 02-useEffect               # useEffect hook   
+                ├── 03-examples                # Examples
+                ├── 04-useRef                  # useRef hook
+                ├── 05-useLayoutEffect         # useLayoutEffect hook
+                ├── 06-memos                   # useMemo hook
+                ├── 07-challenge               # Challenge
+                ├── 08-useReducer              # useReducer hook
+                ├── 09-useContext              # useContext hook
+                ├── hooks                      # Custom Hooks
+
+## Links to the hooks in the application
