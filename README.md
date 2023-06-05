@@ -20,7 +20,7 @@ This repository is designed for beginners who are just starting out with React. 
 - [**Custom Hooks**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/hooks)
     - We also build our own custom hooks
 
-## Folder Structure
+## Project Structure
     .   ├── hook-app
             ├── node_modules                   # NodeJS Modules
             ├── public                         # Vite Public Files
