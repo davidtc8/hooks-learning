@@ -5,19 +5,19 @@ This repo is for all those who are just getting started with react, I find this 
 because we review the following hooks:
 - **useState**
     - How to pass data to different components
-- *useEffect*
+- **useEffect**
     - Trigger a certain function after the application has already rendered
-- useRef
+- **useRef**
     - Mutable values that does not cause a re-render
-- useLayoutEffect
+- **useLayoutEffect**
     - Sincronous hook that happens after react executed all its mutations
-- useMemo       
+- **useMemo**      
     - Cache a component
-- useReducer 
+- **useReducer**
     - Separate the state management from the rendering
-- useContext     
+- **useContext**     
     - Passing data through components without using props.
-- Custom Hooks  
+- **Custom Hooks**  
     - We also build our own custom hooks
 
 ## Folder Structure
