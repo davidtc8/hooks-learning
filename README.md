@@ -5,19 +5,19 @@ This repository is designed for beginners who are just starting out with React. 
 
 - [**useState**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/01-useState)
     - How to pass data to different components
-- **useEffect**
+- [**useEffect**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/02-useEffect)
     - Trigger a certain function after the application has already rendered
-- **useRef**
+- [**useRef**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/03-examples)
     - Mutable values that does not cause a re-render
-- **useLayoutEffect**
+- [**useLayoutEffect**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/05-useLayoutEffect)
     - Sincronous hook that happens after react executed all its mutations
-- **useMemo**      
+- [**useMemo**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/06-memos)
     - Cache a component
-- **useReducer**
+- [**useReducer**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/08-useReducer)
     - Separate the state management from the rendering
-- **useContext**     
+- [**useContext**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/09-useContext)   
     - Passing data through components without using props.
-- **Custom Hooks**  
+- [**Custom Hooks**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/hooks)
     - We also build our own custom hooks
 
 ## Folder Structure
