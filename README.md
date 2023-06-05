@@ -1,9 +1,9 @@
 # Hooks in React
 
 ## What is this repo about?
-This repo is for all those who are just getting started with react, I find this repo valuable 
-because we review the following hooks:
-- **useState**
+This repository is designed for beginners who are just starting out with React. I believe this repository is immensely valuable as it provides a comprehensive overview of various essential React hooks. In this repository, we thoroughly cover the following hooks:
+
+- [**useState**](https://github.com/davidtc8/hooks-learning/tree/master/hook-app/src/01-useState)
     - How to pass data to different components
 - **useEffect**
     - Trigger a certain function after the application has already rendered
@@ -36,4 +36,5 @@ because we review the following hooks:
                 ├── 09-useContext              # useContext hook
                 ├── hooks                      # Custom Hooks
 
-## Links to the hooks in the application
+## Credits
+A big thank you to Fernando Herrera for his amazing React.js course on Udemy! His code examples are displayed in this repo folder which are exceptional. Highly recommended!
