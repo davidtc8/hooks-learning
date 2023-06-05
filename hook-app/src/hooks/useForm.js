@@ -14,7 +14,7 @@ export const useForm = (initialForm = {}) => {
       });
     };
 
-    const onResetForm = ({ username }) => {
+    const onResetForm = () => {
         setFormState(initialForm)
     }
 
